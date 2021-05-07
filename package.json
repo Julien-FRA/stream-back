@@ -8,10 +8,12 @@
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
+    "ffmpeg": "0.0.4",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "mongoose": "^5.12.7",
     "morgan": "~1.9.1",
+    "node-media-server": "^2.2.4",
     "socket.io": "^4.0.1"
   },
   "devDependencies": {
